@@ -11,6 +11,10 @@
     "typeRoots": [
       "node_modules/@types"
     ],
+    "files":[
+      "types/common/index.d.ts"
+    ],
+
     "lib": [
       "es2016",
       "dom"
