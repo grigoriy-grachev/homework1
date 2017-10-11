@@ -16,7 +16,7 @@ export class AppComponent {
   public weather: any = hotels[0].weather;
   public social_info: any = hotels[0].social_info;
 
-  private hotels: any[] = hotels;
+  private hotels: HotelData[] = hotels;
 
 
   public showInfo(h:any): void {

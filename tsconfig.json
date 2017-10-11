@@ -9,10 +9,8 @@
     "experimentalDecorators": true,
     "target": "es5",
     "typeRoots": [
-      "node_modules/@types"
-    ],
-    "files":[
-      "types/common/index.d.ts"
+      "node_modules/@types",
+      "types"
     ],
 
     "lib": [
