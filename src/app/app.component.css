@@ -358,3 +358,7 @@ i.text-info{
   float: right;
   width: 35%;
 }
+
+ul li.anc-bor {
+  border-right: none;
+}
